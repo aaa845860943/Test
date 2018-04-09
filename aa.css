@@ -1,0 +1,33 @@
+li.wu{
+    /*border:1px solid;*/
+    display:inline-block;
+    width:120px;
+    height:58px;
+    text-align: center;
+    line-height: 50px;
+    color:white;
+}
+li.a{
+    background: url("./images/bg1.png") no-repeat scroll;
+}
+.a:hover{
+    background: url("./images/bg5.png") no-repeat scroll;
+}
+li.b{
+    background: url("./images/bg2.png") no-repeat scroll;
+}
+.b:hover{
+    background: url("./images/bg6.png") no-repeat scroll;
+}
+li.c{
+    background: url("./images/bg3.png") no-repeat scroll;
+}
+.c:hover{
+    background: url("./images/bg7.png") no-repeat scroll;
+}
+li.d{
+    background: url("./images/bg4.png") no-repeat scroll;
+}
+.d:hover{
+    background: url("./images/bg1.png") no-repeat scroll;
+}
